@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gnugroho-blog/static/css/main.073c9b0a.css",
+    "main.js": "/gnugroho-blog/static/js/main.d355cd49.js",
+    "static/js/787.ea9ea330.chunk.js": "/gnugroho-blog/static/js/787.ea9ea330.chunk.js",
+    "static/media/logo.svg": "/gnugroho-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gnugroho-blog/index.html",
+    "main.073c9b0a.css.map": "/gnugroho-blog/static/css/main.073c9b0a.css.map",
+    "main.d355cd49.js.map": "/gnugroho-blog/static/js/main.d355cd49.js.map",
+    "787.ea9ea330.chunk.js.map": "/gnugroho-blog/static/js/787.ea9ea330.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d355cd49.js"
+  ]
+}
